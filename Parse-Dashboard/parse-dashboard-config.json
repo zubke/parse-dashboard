@@ -1,10 +1,16 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "https://itlicious-parse-server.herokuapp.com/",
+    "appId": "2SwMCvN3ydMENeK2Py2NR6X101AY7bzUbgzr1VDS",
+    "masterKey": "AtM8Ts2APhxrJ6KCXDqZRhw6QrLqytpUVDt21wYQ",
+    "appName": "Parse",
+    "iconName": "Parse"
   }],
+  "users": [
+    {
+      "user":"itlicious",
+      "pass":"V1ktorious"
+    }
+  ],
   "iconsFolder": "icons"
 }
